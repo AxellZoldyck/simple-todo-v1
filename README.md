@@ -11,7 +11,7 @@ Sebuah aplikasi to-do list sederhana berbasis PHP dan MySQL, dilengkapi dengan a
 ## 🖼️ Tampilan
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ## 🛠️ Teknologi
 - PHP (Native)
